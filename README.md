@@ -3,6 +3,8 @@
 ## Description
 
 #TODO: describe **dff-TEMPLATE-skill** 
+This is supposed to become a concierge dialog agent...
+
 ## Quickstart
 
 ```bash
